@@ -5,7 +5,7 @@ import java.io.IOException;
 public class Main {
 
     public static void main(String[] args) throws IOException {
-        final int N = 100000;
+        final int N = 10;
         Database db = new Database();
         db.add("Egor", 18);
         db.add("John", 19);
